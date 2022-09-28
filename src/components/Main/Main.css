@@ -1,0 +1,20 @@
+.all-meal{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.meal-cart{
+    background-color: blanchedalmond;
+
+    padding-left: 14px;
+    position: sticky;
+    top: 0;
+}
+.add{
+    display: flex;
+   
+}
+.delete-btn{
+    background-color: green;
+    margin-left: 14px;
+}
